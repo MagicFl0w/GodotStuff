@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dq6wvqf0tqpai"]
+
+[node name="CharacterSprite" type="Sprite2D"]
